@@ -1,0 +1,5 @@
+/vendor/
+/logs/
+*.log
+config.local.php
+Thumbs.db
